@@ -1,0 +1,24 @@
+.button {
+    cursor: pointer;
+    font: inherit;
+    color: white;
+    background-color: #755788;
+    border: 1px solid #171418;
+    border-radius: 4px;
+    padding: 0.5rem 2.5rem;
+}
+
+.buttondis {
+    cursor: pointer;
+    font: inherit;
+    color: white;
+    background-color: #be6031;
+    border: 1px solid #171418;
+    border-radius: 4px;
+    padding: 0.5rem 2.5rem;
+}
+.body{
+    margin: 0;
+  background-color: #e0e9f5;
+  text-align: center;
+}
